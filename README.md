@@ -46,7 +46,10 @@ I think for this we can simply clone the calcium imaging workflow ([link](https:
 
 Another dependency is `jupyter lab` anything else?
 
+## 5) Configuring database users and permissions
 
+see:
+https://docs.datajoint.org/python/admin/3-accounts.html
 
 # Launching
 
