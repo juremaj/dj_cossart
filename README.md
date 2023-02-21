@@ -1,7 +1,7 @@
 
 # Installation
 
-## Database  (Host)
+## 1) Database  (Host)
 
 To install datajoint i followed these instructions first:
 https://tutorials.datajoint.org/setting-up/local-database.html
@@ -15,7 +15,7 @@ https://github.com/datajoint/mysql-docker
 I also checked if the mysql database was set up properly (also see in link above)
 
 
-## Conda and Python (Client)
+## 2) Conda and Python (Client)
 
 I set up a new conda env `dj_cossart` and installed datajoint there as described in documentation. For this I mostly followed the instructions here (but not fully, see below):
 https://datajoint.com/docs/core/datajoint-python/0.14/getting-started/
@@ -26,7 +26,7 @@ IMPORTANT: I did two things differently than on the link.
 2) when configuring environment variables I changed the hostname (by default they want you to use `tutorial-db.datajoint.io`  or some other database that they host, but I set it to the local one) : `DJ_HOST=127.0.0.1`
 
 
-# Our dj_cossart GitHub repo and testing
+## 3) Our dj_cossart GitHub repo and testing
 
 The final step I made to test it was to clone the github `dj_cossart` repo to the home directory on the 2p-server:
 
@@ -38,3 +38,28 @@ cd'd into the directory and ran `jupyter lab`. Because of port-forwarding 8888 I
 [2023-02-14 17:46:38,828][INFO]: Connecting root@localhost:3306
 [2023-02-14 17:46:38,952][INFO]: Connected root@localhost:3306
 ```
+
+
+# Launching
+
+## After server restart
+If the server is restarted we need to re-launch the docker container. To do this we navigate to `~/mysql-docker` where the image from above is stored. We can then activate the container with:
+
+`sudo docker-compose up -d`
+
+we can then test if the sql database is running by trying to sign in (with the default `root`/`simple` user):
+
+`mysql -h 127.0.0.1 -u root -p`
+
+we can then follow the normal steps as we would if the server was not restarted (see just below).
+
+## Regular use (without server restart)
+
+We first need to navigate to the folder of this repository and activate the conda environment:
+
+```
+cd ~/dj_cossart
+conda activate dj_cossart
+```
+
+And from here we can just use VSCode or launch `jupyter lab`...
