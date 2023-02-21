@@ -39,6 +39,14 @@ cd'd into the directory and ran `jupyter lab`. Because of port-forwarding 8888 I
 [2023-02-14 17:46:38,952][INFO]: Connected root@localhost:3306
 ```
 
+## 4) Setting up environment
+I think for this we can simply clone the calcium imaging workflow ([link](https://github.com/datajoint/workflow-calcium-imaging)) and install it from the `dj_cossart` conda environment locally by using:
+
+`pip install -e .`
+
+Another dependency is `jupyter lab` anything else?
+
+
 
 # Launching
 
