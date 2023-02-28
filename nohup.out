@@ -444,3 +444,29 @@
 [W 2023-02-28 11:18:00.961 ServerApp] 400 POST /api/contents?1677579487690 (127.0.0.1) 6.86ms referer=http://localhost:8888/lab/tree/notebooks/00_configure.ipynb
 [I 2023-02-28 11:19:45.118 ServerApp] Saving file at /notebooks/00_configure.ipynb
 [I 2023-02-28 11:19:45.119 ServerApp] Saving 00_configure.ipynb
+[I 2023-02-28 11:21:45.177 ServerApp] Saving file at /notebooks/00_configure.ipynb
+[I 2023-02-28 11:21:45.178 ServerApp] Saving 00_configure.ipynb
+[I 2023-02-28 11:22:08.892 ServerApp] Kernel restarted: 4aeb785b-8169-4ed2-b59c-e9003450f1bb
+[I 2023-02-28 11:22:31.899 ServerApp] Kernel interrupted: 4aeb785b-8169-4ed2-b59c-e9003450f1bb
+[I 2023-02-28 11:22:41.996 ServerApp] Saving file at /notebooks/01_construct_db.ipynb
+[I 2023-02-28 11:22:41.998 ServerApp] Saving 01_construct_db.ipynb
+[I 2023-02-28 11:22:46.965 ServerApp] Kernel started: dbdbd9eb-20ca-42b6-8f4e-a8d266c7d9c6
+[I 2023-02-28 11:23:40.432 ServerApp] Kernel started: 61718c39-112e-4657-8807-547d1eb25712
+[I 2023-02-28 11:23:45.495 ServerApp] Kernel restarted: 61718c39-112e-4657-8807-547d1eb25712
+[I 2023-02-28 11:23:45.727 ServerApp] Starting buffering for 61718c39-112e-4657-8807-547d1eb25712:83b00c19-f63c-49b4-919e-a45a8c2a512a
+[I 2023-02-28 11:23:45.736 ServerApp] Restoring connection for 61718c39-112e-4657-8807-547d1eb25712:83b00c19-f63c-49b4-919e-a45a8c2a512a
+[I 2023-02-28 11:24:46.806 ServerApp] Saving file at /notebooks_phan/phan_00_configure.ipynb
+[I 2023-02-28 11:24:46.808 ServerApp] Saving phan_00_configure.ipynb
+[I 2023-02-28 11:25:39.963 ServerApp] Saving file at /notebooks_phan/phan_01_construct_db.ipynb
+[I 2023-02-28 11:25:39.964 ServerApp] Saving phan_01_construct_db.ipynb
+[I 2023-02-28 11:26:51.966 ServerApp] Kernel started: 2efb19c9-0165-426b-85ac-5ffdafeb7651
+[I 2023-02-28 11:26:59.449 ServerApp] Kernel restarted: 2efb19c9-0165-426b-85ac-5ffdafeb7651
+[I 2023-02-28 11:26:59.789 ServerApp] Starting buffering for 2efb19c9-0165-426b-85ac-5ffdafeb7651:9ce52129-46b1-4585-a867-30ca7a38e8e5
+[I 2023-02-28 11:26:59.803 ServerApp] Restoring connection for 2efb19c9-0165-426b-85ac-5ffdafeb7651:9ce52129-46b1-4585-a867-30ca7a38e8e5
+[I 2023-02-28 11:28:51.512 ServerApp] Saving file at /notebooks_phan/phan_02_trigger_db_s2p.ipynb
+[I 2023-02-28 11:28:51.514 ServerApp] Saving phan_02_trigger_db_s2p.ipynb
+[I 2023-02-28 11:29:53.960 ServerApp] Saving file at /notebooks_phan/phan_02_trigger_db_s2p.ipynb
+[I 2023-02-28 11:29:53.962 ServerApp] Saving phan_02_trigger_db_s2p.ipynb
+[I 2023-02-28 11:49:39.852 ServerApp] Starting buffering for 61718c39-112e-4657-8807-547d1eb25712:83b00c19-f63c-49b4-919e-a45a8c2a512a
+[I 2023-02-28 11:49:40.404 ServerApp] Starting buffering for 2efb19c9-0165-426b-85ac-5ffdafeb7651:9ce52129-46b1-4585-a867-30ca7a38e8e5
+[I 2023-02-28 11:49:41.647 ServerApp] Starting buffering for dbdbd9eb-20ca-42b6-8f4e-a8d266c7d9c6:d5177883-2995-4bde-a954-9ce06d8efba6
