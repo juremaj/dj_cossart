@@ -1,0 +1,446 @@
+[I 2023-02-27 15:38:39.883 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-02-27 15:38:39.883 ServerApp] jupytext | extension was successfully linked.
+[I 2023-02-27 15:38:39.885 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-02-27 15:38:40.030 ServerApp] notebook_shim | extension was successfully linked.
+[I 2023-02-27 15:38:40.057 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2023-02-27 15:38:40.057 LabApp] JupyterLab extension loaded from /home/cossart/anaconda3/envs/dj_cossart/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-27 15:38:40.057 LabApp] JupyterLab application directory is /home/cossart/anaconda3/envs/dj_cossart/share/jupyter/lab
+[I 2023-02-27 15:38:40.059 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-02-27 15:38:40.059 ServerApp] [Jupytext Server Extension] Deriving a JupytextContentsManager from LargeFileManager
+[I 2023-02-27 15:38:40.060 ServerApp] jupytext | extension was successfully loaded.
+[I 2023-02-27 15:38:40.062 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-02-27 15:38:40.063 ServerApp] Serving notebooks from local directory: /home/cossart/dj_cossart
+[I 2023-02-27 15:38:40.063 ServerApp] Jupyter Server 1.23.4 is running at:
+[I 2023-02-27 15:38:40.063 ServerApp] http://localhost:8888/lab?token=d3f3bb76689a77413ca5b4335562bc2ed76b0fc6cb80a647
+[I 2023-02-27 15:38:40.063 ServerApp]  or http://127.0.0.1:8888/lab?token=d3f3bb76689a77413ca5b4335562bc2ed76b0fc6cb80a647
+[I 2023-02-27 15:38:40.063 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-02-27 15:38:40.065 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/cossart/.local/share/jupyter/runtime/jpserver-30560-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=d3f3bb76689a77413ca5b4335562bc2ed76b0fc6cb80a647
+     or http://127.0.0.1:8888/lab?token=d3f3bb76689a77413ca5b4335562bc2ed76b0fc6cb80a647
+[W 2023-02-27 15:38:42.504 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f?1677508729435 (127.0.0.1): Kernel does not exist: 8a0e3f74-f54a-49d3-8185-2708f0ebb69f
+[W 2023-02-27 15:38:42.504 ServerApp] wrote error: 'Kernel does not exist: 8a0e3f74-f54a-49d3-8185-2708f0ebb69f'
+[W 2023-02-27 15:38:42.504 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f?1677508729435 (127.0.0.1) 0.85ms referer=http://localhost:8888/lab?
+[W 2023-02-27 15:38:43.501 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f/channels?session_id=ea275a1c-8f15-49b9-beaa-293a4e8f6716 (127.0.0.1): Kernel does not exist: 8a0e3f74-f54a-49d3-8185-2708f0ebb69f
+[W 2023-02-27 15:38:43.511 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f/channels?session_id=ea275a1c-8f15-49b9-beaa-293a4e8f6716 (127.0.0.1) 10.22ms referer=None
+[W 2023-02-27 15:38:43.519 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f?1677508730451 (127.0.0.1): Kernel does not exist: 8a0e3f74-f54a-49d3-8185-2708f0ebb69f
+[W 2023-02-27 15:38:43.519 ServerApp] wrote error: 'Kernel does not exist: 8a0e3f74-f54a-49d3-8185-2708f0ebb69f'
+[W 2023-02-27 15:38:43.519 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f?1677508730451 (127.0.0.1) 0.50ms referer=http://localhost:8888/lab?
+[W 2023-02-27 15:38:44.503 ServerApp] 404 GET /api/kernels/9bc4a6cf-779e-43f6-a056-d1aafe49ef0d?1677508731433 (127.0.0.1): Kernel does not exist: 9bc4a6cf-779e-43f6-a056-d1aafe49ef0d
+[W 2023-02-27 15:38:44.503 ServerApp] wrote error: 'Kernel does not exist: 9bc4a6cf-779e-43f6-a056-d1aafe49ef0d'
+[W 2023-02-27 15:38:44.503 ServerApp] 404 GET /api/kernels/9bc4a6cf-779e-43f6-a056-d1aafe49ef0d?1677508731433 (127.0.0.1) 0.91ms referer=http://localhost:8888/lab?
+[W 2023-02-27 15:38:44.504 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f/channels?session_id=ea275a1c-8f15-49b9-beaa-293a4e8f6716 (127.0.0.1): Kernel does not exist: 8a0e3f74-f54a-49d3-8185-2708f0ebb69f
+[W 2023-02-27 15:38:44.505 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f/channels?session_id=ea275a1c-8f15-49b9-beaa-293a4e8f6716 (127.0.0.1) 1.68ms referer=None
+[W 2023-02-27 15:38:44.512 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f?1677508731446 (127.0.0.1): Kernel does not exist: 8a0e3f74-f54a-49d3-8185-2708f0ebb69f
+[W 2023-02-27 15:38:44.512 ServerApp] wrote error: 'Kernel does not exist: 8a0e3f74-f54a-49d3-8185-2708f0ebb69f'
+[W 2023-02-27 15:38:44.512 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f?1677508731446 (127.0.0.1) 0.89ms referer=http://localhost:8888/lab?
+[W 2023-02-27 15:38:45.505 ServerApp] 404 GET /api/kernels/9bc4a6cf-779e-43f6-a056-d1aafe49ef0d/channels?session_id=4bf3843d-9e5b-4e8e-ba13-8bd5b4c86741 (127.0.0.1): Kernel does not exist: 9bc4a6cf-779e-43f6-a056-d1aafe49ef0d
+[W 2023-02-27 15:38:45.507 ServerApp] 404 GET /api/kernels/9bc4a6cf-779e-43f6-a056-d1aafe49ef0d/channels?session_id=4bf3843d-9e5b-4e8e-ba13-8bd5b4c86741 (127.0.0.1) 3.15ms referer=None
+[W 2023-02-27 15:38:45.517 ServerApp] 404 GET /api/kernels/9bc4a6cf-779e-43f6-a056-d1aafe49ef0d?1677508732447 (127.0.0.1): Kernel does not exist: 9bc4a6cf-779e-43f6-a056-d1aafe49ef0d
+[W 2023-02-27 15:38:45.518 ServerApp] wrote error: 'Kernel does not exist: 9bc4a6cf-779e-43f6-a056-d1aafe49ef0d'
+[W 2023-02-27 15:38:45.518 ServerApp] 404 GET /api/kernels/9bc4a6cf-779e-43f6-a056-d1aafe49ef0d?1677508732447 (127.0.0.1) 1.63ms referer=http://localhost:8888/lab?
+[W 2023-02-27 15:38:45.526 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f/channels?session_id=ea275a1c-8f15-49b9-beaa-293a4e8f6716 (127.0.0.1): Kernel does not exist: 8a0e3f74-f54a-49d3-8185-2708f0ebb69f
+[W 2023-02-27 15:38:45.527 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f/channels?session_id=ea275a1c-8f15-49b9-beaa-293a4e8f6716 (127.0.0.1) 2.93ms referer=None
+[W 2023-02-27 15:38:45.537 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f?1677508732468 (127.0.0.1): Kernel does not exist: 8a0e3f74-f54a-49d3-8185-2708f0ebb69f
+[W 2023-02-27 15:38:45.538 ServerApp] wrote error: 'Kernel does not exist: 8a0e3f74-f54a-49d3-8185-2708f0ebb69f'
+[W 2023-02-27 15:38:45.538 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f?1677508732468 (127.0.0.1) 1.60ms referer=http://localhost:8888/lab?
+[W 2023-02-27 15:38:46.524 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f?1677508733449 (127.0.0.1): Kernel does not exist: 8a0e3f74-f54a-49d3-8185-2708f0ebb69f
+[W 2023-02-27 15:38:46.524 ServerApp] wrote error: 'Kernel does not exist: 8a0e3f74-f54a-49d3-8185-2708f0ebb69f'
+[W 2023-02-27 15:38:46.524 ServerApp] 404 GET /api/kernels/8a0e3f74-f54a-49d3-8185-2708f0ebb69f?1677508733449 (127.0.0.1) 1.57ms referer=http://localhost:8888/lab?
+[W 2023-02-27 15:38:48.513 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-02-27 15:38:51.079 ServerApp] Kernel started: 4aeb785b-8169-4ed2-b59c-e9003450f1bb
+[I 2023-02-27 15:38:51.120 ServerApp] Kernel started: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[I 2023-02-27 15:38:51.121 ServerApp] Kernel started: 6ab7b84d-697a-4896-9ddc-6394f4f45178
+[I 2023-02-27 15:38:54.758 ServerApp] Kernel restarted: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[I 2023-02-27 15:38:54.984 ServerApp] Starting buffering for f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3:4b07a78f-7738-48ef-83ff-e7ff00bf47ff
+[I 2023-02-27 15:38:54.994 ServerApp] Restoring connection for f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3:4b07a78f-7738-48ef-83ff-e7ff00bf47ff
+[W 2023-02-27 15:39:12.636 ServerApp] IOPub data rate exceeded.
+    The Jupyter server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--ServerApp.iopub_data_rate_limit`.
+    
+    Current values:
+    ServerApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    ServerApp.rate_limit_window=3.0 (secs)
+    
+[W 2023-02-27 15:39:12.640 ServerApp] iopub messages resumed
+[I 2023-02-27 15:39:17.312 ServerApp] Starting buffering for 6ab7b84d-697a-4896-9ddc-6394f4f45178:a41f68d5-aabd-4f6f-8788-fe4744117ae2
+[I 2023-02-27 15:39:17.314 ServerApp] Starting buffering for 4aeb785b-8169-4ed2-b59c-e9003450f1bb:09e61d1b-71e8-4297-b49c-4a73b098515f
+[I 2023-02-27 15:39:17.314 ServerApp] Starting buffering for f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3:4b07a78f-7738-48ef-83ff-e7ff00bf47ff
+[I 2023-02-27 15:40:43.639 ServerApp] 302 GET / (127.0.0.1) 1.32ms
+[W 2023-02-27 15:40:45.685 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-02-27 15:41:49.082 ServerApp] Starting buffering for 6ab7b84d-697a-4896-9ddc-6394f4f45178:f8b535aa-fefb-4e47-a965-8b766abda32c
+[I 2023-02-27 15:41:49.083 ServerApp] Starting buffering for 4aeb785b-8169-4ed2-b59c-e9003450f1bb:5a604d70-ba67-4669-8721-b2703db23cf5
+[I 2023-02-27 15:41:49.084 ServerApp] Starting buffering for f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3:521a075b-ec83-4e36-9d42-707dd0acf82a
+[W 2023-02-27 15:41:50.865 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-02-27 15:42:44.038 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:42:44.040 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:42:44.838 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:42:44.840 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:42:45.040 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:42:45.042 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:42:45.193 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:42:45.194 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:42:48.582 ServerApp] Starting buffering for 4aeb785b-8169-4ed2-b59c-e9003450f1bb:24a35be5-5c67-48d8-a667-260d616e29ec
+[I 2023-02-27 15:42:48.583 ServerApp] Starting buffering for f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3:bb46399d-00ed-413e-a59e-96ca7850f20b
+[I 2023-02-27 15:42:48.584 ServerApp] Starting buffering for 6ab7b84d-697a-4896-9ddc-6394f4f45178:38d9d164-62b3-4881-8e55-c14173867970
+[I 2023-02-27 15:43:36.487 ServerApp] 302 GET / (127.0.0.1) 0.76ms
+[W 2023-02-27 15:43:36.491 ServerApp] Clearing invalid/expired login cookie username-localhost-8888
+[W 2023-02-27 15:43:36.492 LabApp] Clearing invalid/expired login cookie username-localhost-8888
+[I 2023-02-27 15:43:36.493 LabApp] 302 GET /lab? (127.0.0.1) 2.01ms
+[I 2023-02-27 15:43:44.274 ServerApp] 302 GET /?token=d3f3bb76689a77413ca5b4335562bc2ed76b0fc6cb80a647 (127.0.0.1) 0.83ms
+[W 2023-02-27 15:43:45.879 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-02-27 15:43:56.145 ServerApp] Kernel restarted: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[I 2023-02-27 15:43:58.768 ServerApp] Starting buffering for f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3:9c0d0a3e-bd05-4f93-9e90-778ea953c802
+[I 2023-02-27 15:43:58.773 ServerApp] Restoring connection for f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3:9c0d0a3e-bd05-4f93-9e90-778ea953c802
+[W 2023-02-27 15:44:17.448 ServerApp] IOPub data rate exceeded.
+    The Jupyter server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--ServerApp.iopub_data_rate_limit`.
+    
+    Current values:
+    ServerApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    ServerApp.rate_limit_window=3.0 (secs)
+    
+[W 2023-02-27 15:44:17.450 ServerApp] iopub messages resumed
+[I 2023-02-27 15:45:47.436 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:45:47.438 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:49:47.499 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:49:47.500 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:53:47.556 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:53:47.558 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:59:47.631 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 15:59:47.633 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:05:47.704 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:05:47.706 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:11:47.779 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:11:47.781 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:15:47.845 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:15:47.847 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:21:47.905 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:21:47.906 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:27:47.978 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:27:47.980 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:33:48.046 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:33:48.048 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:37:48.103 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:37:48.104 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:43:48.177 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:43:48.178 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:49:48.254 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:49:48.255 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:55:48.327 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 16:55:48.328 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:01:48.393 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:01:48.394 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:05:48.457 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:05:48.459 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:11:48.526 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:11:48.528 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:17:48.592 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:17:48.594 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:23:48.666 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:23:48.667 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:29:48.740 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:29:48.742 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:32:15.316 ServerApp] Starting buffering for f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3:9c0d0a3e-bd05-4f93-9e90-778ea953c802
+[I 2023-02-27 17:32:15.317 ServerApp] Starting buffering for 6ab7b84d-697a-4896-9ddc-6394f4f45178:e56d28de-3401-4229-a72d-e14e3ab2e6e3
+[I 2023-02-27 17:32:15.317 ServerApp] Starting buffering for 4aeb785b-8169-4ed2-b59c-e9003450f1bb:273e1264-8a07-4ab7-a2da-4472afb65cdf
+[I 2023-02-27 17:35:15.739 ServerApp] Restoring connection for 4aeb785b-8169-4ed2-b59c-e9003450f1bb:273e1264-8a07-4ab7-a2da-4472afb65cdf
+[I 2023-02-27 17:35:15.939 ServerApp] Restoring connection for f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3:9c0d0a3e-bd05-4f93-9e90-778ea953c802
+[I 2023-02-27 17:35:15.940 ServerApp] Replaying 1 buffered messages
+[I 2023-02-27 17:35:17.706 ServerApp] Restoring connection for 6ab7b84d-697a-4896-9ddc-6394f4f45178:e56d28de-3401-4229-a72d-e14e3ab2e6e3
+[I 2023-02-27 17:35:48.801 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:35:48.803 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:41:50.441 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:41:50.443 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:49:50.554 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:49:50.556 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:55:50.625 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 17:55:50.627 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:03:50.748 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:03:50.750 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:09:50.856 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:09:50.857 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:17:50.944 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:17:50.946 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:25:51.053 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:25:51.055 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:31:51.161 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:31:51.163 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:39:51.288 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:39:51.289 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:45:51.417 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:45:51.419 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:53:51.535 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:53:51.537 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:59:51.668 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 18:59:51.670 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:07:51.763 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:07:51.765 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:13:51.887 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:13:51.889 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:19:51.978 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:19:51.979 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:27:52.076 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:27:52.077 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:31:52.208 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:31:52.215 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:33:52.348 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:33:52.350 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:35:52.468 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:35:52.470 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:37:52.647 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:37:52.648 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:39:52.775 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:39:52.776 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:41:52.910 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:41:52.912 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:43:53.052 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:43:53.054 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:45:53.152 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:45:53.154 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:47:53.295 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:47:53.299 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:49:53.410 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:49:53.414 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:51:53.546 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:51:53.550 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:53:53.712 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:53:53.716 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:55:53.849 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:55:53.851 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:57:53.989 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:57:53.992 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:59:54.128 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 19:59:54.130 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:01:54.284 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:01:54.285 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:03:54.354 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:03:54.355 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:05:54.423 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:05:54.428 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:07:54.616 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:07:54.619 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:09:54.791 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:09:54.792 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:11:54.947 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:11:54.949 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:13:55.134 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:13:55.136 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:15:55.310 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:15:55.312 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:17:55.444 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:17:55.450 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:19:55.537 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:19:55.541 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:21:55.738 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:21:55.739 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:23:55.950 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:23:55.952 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:25:56.142 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:25:56.143 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:27:56.281 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:27:56.282 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:29:56.501 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:29:56.521 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:31:56.805 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:31:56.806 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:33:56.948 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:33:56.954 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:35:57.117 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:35:57.119 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:37:57.353 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:37:57.369 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:39:57.606 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:39:57.608 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:41:57.794 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:41:57.795 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:43:58.006 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:43:58.008 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:45:58.079 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:45:58.080 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:47:58.146 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:47:58.148 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:49:58.291 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:49:58.292 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:51:58.500 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:51:58.533 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:53:58.789 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:53:58.803 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:55:59.101 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:55:59.130 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:57:59.295 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:57:59.312 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:59:59.520 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 20:59:59.522 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:01:59.791 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:01:59.792 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:03:59.997 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:04:00.018 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:06:00.230 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:06:00.236 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:08:00.369 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:08:00.370 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:10:00.540 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:10:00.584 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:12:01.023 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:12:01.025 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:14:01.346 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:14:01.349 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:16:01.530 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:16:01.531 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:18:01.651 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:18:01.652 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:20:01.884 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:20:01.885 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:22:01.939 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:22:01.941 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:24:02.039 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:24:02.041 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:26:02.293 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:26:02.294 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:28:02.364 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:28:02.367 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:30:02.530 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:30:02.563 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:32:02.818 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:32:02.881 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:34:03.062 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:34:03.064 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:40:03.169 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:40:03.171 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:42:03.268 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:42:03.269 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:44:03.355 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:44:03.356 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:46:03.422 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:46:03.424 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:50:03.524 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-27 21:50:03.526 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:00:18.617 ServerApp] 302 GET / (127.0.0.1) 0.86ms
+[W 2023-02-28 00:00:22.621 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-02-28 00:02:25.417 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:02:25.418 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:04:25.771 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:04:25.772 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:05:06.589 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:05:06.591 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:06:40.828 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:06:40.830 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:07:05.088 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:07:05.090 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:09:05.580 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:09:05.581 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:11:06.071 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:11:06.073 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:15:06.516 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:15:06.518 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:17:06.886 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:17:06.887 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:21:07.893 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:21:07.895 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:27:08.235 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:27:08.237 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:27:15.217 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:27:15.219 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:27:17.290 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:27:17.292 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:28:34.830 ServerApp] Kernel restarted: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[I 2023-02-28 00:28:49.901 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:28:49.903 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[W 2023-02-28 00:30:25.118 ServerApp] IOPub data rate exceeded.
+    The Jupyter server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--ServerApp.iopub_data_rate_limit`.
+    
+    Current values:
+    ServerApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    ServerApp.rate_limit_window=3.0 (secs)
+    
+[W 2023-02-28 00:30:25.120 ServerApp] iopub messages resumed
+[W 2023-02-28 00:30:25.175 ServerApp] IOPub data rate exceeded.
+    The Jupyter server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--ServerApp.iopub_data_rate_limit`.
+    
+    Current values:
+    ServerApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    ServerApp.rate_limit_window=3.0 (secs)
+    
+[W 2023-02-28 00:30:25.177 ServerApp] iopub messages resumed
+[I 2023-02-28 00:30:50.342 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:30:50.344 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:38:50.767 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:38:50.769 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:41:05.823 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 00:41:05.824 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 08:07:26.640 ServerApp] 302 GET / (127.0.0.1) 0.81ms
+[W 2023-02-28 08:07:30.238 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2023-02-28 08:07:56.774 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-02-28 08:09:59.307 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 08:09:59.308 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 09:29:33.495 ServerApp] Starting buffering for 6ab7b84d-697a-4896-9ddc-6394f4f45178:e56d28de-3401-4229-a72d-e14e3ab2e6e3
+[I 2023-02-28 09:29:33.496 ServerApp] Starting buffering for 4aeb785b-8169-4ed2-b59c-e9003450f1bb:273e1264-8a07-4ab7-a2da-4472afb65cdf
+[I 2023-02-28 09:29:33.497 ServerApp] Starting buffering for f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3:9c0d0a3e-bd05-4f93-9e90-778ea953c802
+[W 2023-02-28 09:29:35.084 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-02-28 09:31:36.139 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 09:31:36.141 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 09:33:36.205 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 09:33:36.207 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 09:34:18.473 ServerApp] Creating new notebook in /notebooks
+[I 2023-02-28 09:34:18.478 ServerApp] Saving Untitled.ipynb
+[I 2023-02-28 09:34:22.431 ServerApp] Kernel started: 59292331-1b89-40e0-a147-ea6c7a93ce09
+[I 2023-02-28 09:36:18.606 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-02-28 09:36:18.608 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-02-28 09:38:18.645 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-02-28 09:38:18.647 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-02-28 09:40:18.687 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-02-28 09:40:18.688 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-02-28 09:40:33.645 ServerApp] Kernel interrupted: 59292331-1b89-40e0-a147-ea6c7a93ce09
+[I 2023-02-28 09:40:33.839 ServerApp] Kernel interrupted: 59292331-1b89-40e0-a147-ea6c7a93ce09
+[I 2023-02-28 09:40:33.975 ServerApp] Kernel interrupted: 59292331-1b89-40e0-a147-ea6c7a93ce09
+[I 2023-02-28 09:40:34.129 ServerApp] Kernel interrupted: 59292331-1b89-40e0-a147-ea6c7a93ce09
+[I 2023-02-28 09:40:34.287 ServerApp] Kernel interrupted: 59292331-1b89-40e0-a147-ea6c7a93ce09
+[I 2023-02-28 09:42:18.721 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-02-28 09:42:18.723 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-02-28 09:44:18.770 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-02-28 09:44:18.772 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-02-28 09:46:19.840 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-02-28 09:46:19.841 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-02-28 09:54:20.855 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-02-28 09:54:20.857 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-02-28 09:55:56.942 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-02-28 09:55:56.944 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-02-28 09:55:58.034 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-02-28 09:55:58.035 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-02-28 09:57:58.850 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-02-28 09:57:58.851 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-02-28 10:03:36.865 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 10:03:36.866 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 10:04:44.488 ServerApp] Creating new directory in 
+[I 2023-02-28 10:05:16.016 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 10:05:16.017 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 10:05:44.340 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 10:05:44.342 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 10:07:15.724 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-02-28 10:07:15.725 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-02-28 11:16:47.245 ServerApp] Kernel restarted: 4aeb785b-8169-4ed2-b59c-e9003450f1bb
+[I 2023-02-28 11:16:57.442 ServerApp] Kernel interrupted: 4aeb785b-8169-4ed2-b59c-e9003450f1bb
+[I 2023-02-28 11:17:14.867 ServerApp] Saving file at /notebooks/01_construct_db.ipynb
+[I 2023-02-28 11:17:14.869 ServerApp] Saving 01_construct_db.ipynb
+[I 2023-02-28 11:17:16.851 ServerApp] Saving file at /notebooks/00_configure.ipynb
+[I 2023-02-28 11:17:16.852 ServerApp] Saving 00_configure.ipynb
+[I 2023-02-28 11:18:00.956 ServerApp] Copying notebooks to 
+[W 2023-02-28 11:18:00.960 ServerApp] 400 POST /api/contents?1677579487690 (127.0.0.1): Can't copy directories
+[W 2023-02-28 11:18:00.961 ServerApp] wrote error: "Can't copy directories"
+[W 2023-02-28 11:18:00.961 ServerApp] 400 POST /api/contents?1677579487690 (127.0.0.1) 6.86ms referer=http://localhost:8888/lab/tree/notebooks/00_configure.ipynb
+[I 2023-02-28 11:19:45.118 ServerApp] Saving file at /notebooks/00_configure.ipynb
+[I 2023-02-28 11:19:45.119 ServerApp] Saving 00_configure.ipynb
