@@ -1032,3 +1032,166 @@
 [I 2023-03-01 19:46:22.756 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
 [I 2023-03-01 19:46:22.758 ServerApp] Saving 02_trigger_db_s2p.ipynb
 [I 2023-03-01 19:46:25.736 ServerApp] Kernel restarted: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[W 2023-03-01 19:46:45.666 ServerApp] IOPub data rate exceeded.
+    The Jupyter server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--ServerApp.iopub_data_rate_limit`.
+    
+    Current values:
+    ServerApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    ServerApp.rate_limit_window=3.0 (secs)
+    
+[W 2023-03-01 19:46:45.719 ServerApp] IOPub data rate exceeded.
+    The Jupyter server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--ServerApp.iopub_data_rate_limit`.
+    
+    Current values:
+    ServerApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    ServerApp.rate_limit_window=3.0 (secs)
+    
+[W 2023-03-01 19:46:45.721 ServerApp] iopub messages resumed
+[W 2023-03-01 19:46:45.721 ServerApp] iopub messages resumed
+[I 2023-03-01 19:48:23.923 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-01 19:48:23.925 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-01 20:17:53.816 ServerApp] Kernel started: 44747bfd-6a0d-4f4b-856f-67a63f422f20
+[I 2023-03-01 20:18:18.891 ServerApp] Kernel shutdown: 44747bfd-6a0d-4f4b-856f-67a63f422f20
+[W 2023-03-01 20:18:19.252 ServerApp] delete /notebooks/test_db_connection.ipynb
+[I 2023-03-01 20:18:39.262 ServerApp] Creating new directory in 
+[I 2023-03-01 20:18:52.105 ServerApp] Creating new file in /docs
+[I 2023-03-01 20:21:03.085 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:23:03.252 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:23:15.677 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:25:16.870 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:25:34.098 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:27:16.619 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:34:55.921 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:35:04.980 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:36:01.678 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-01 20:36:01.680 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-01 20:37:05.240 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:37:40.778 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:37:41.574 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:37:43.406 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:39:26.408 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:39:33.954 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:39:53.467 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:39:54.584 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:40:00.000 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-01 20:41:14.828 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-01 20:41:14.830 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-01 21:27:15.372 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-01 21:27:15.374 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-01 22:17:15.896 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-01 22:17:15.898 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-01 22:45:16.442 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-01 22:45:16.444 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-02 08:56:07.445 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 08:56:07.447 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-02 08:56:30.301 ServerApp] Kernel restarted: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[I 2023-03-02 08:58:07.647 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 08:58:07.649 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[W 2023-03-02 08:59:04.909 ServerApp] IOPub data rate exceeded.
+    The Jupyter server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--ServerApp.iopub_data_rate_limit`.
+    
+    Current values:
+    ServerApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    ServerApp.rate_limit_window=3.0 (secs)
+    
+[W 2023-03-02 08:59:04.960 ServerApp] IOPub data rate exceeded.
+    The Jupyter server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--ServerApp.iopub_data_rate_limit`.
+    
+    Current values:
+    ServerApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    ServerApp.rate_limit_window=3.0 (secs)
+    
+[W 2023-03-02 08:59:06.941 ServerApp] iopub messages resumed
+[W 2023-03-02 08:59:06.943 ServerApp] iopub messages resumed
+[I 2023-03-02 08:59:53.725 ServerApp] Kernel interrupted: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[I 2023-03-02 08:59:55.405 ServerApp] Kernel interrupted: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[I 2023-03-02 08:59:55.608 ServerApp] Kernel interrupted: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[I 2023-03-02 08:59:55.826 ServerApp] Kernel interrupted: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[I 2023-03-02 08:59:56.031 ServerApp] Kernel interrupted: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[I 2023-03-02 09:00:00.670 ServerApp] Kernel restarted: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[I 2023-03-02 09:00:07.893 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 09:00:07.895 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-02 09:00:58.230 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 09:00:58.231 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-02 09:02:00.818 ServerApp] Kernel restarted: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[W 2023-03-02 09:02:18.656 ServerApp] IOPub data rate exceeded.
+    The Jupyter server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--ServerApp.iopub_data_rate_limit`.
+    
+    Current values:
+    ServerApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    ServerApp.rate_limit_window=3.0 (secs)
+    
+[W 2023-03-02 09:02:18.709 ServerApp] IOPub data rate exceeded.
+    The Jupyter server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--ServerApp.iopub_data_rate_limit`.
+    
+    Current values:
+    ServerApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    ServerApp.rate_limit_window=3.0 (secs)
+    
+[W 2023-03-02 09:02:18.712 ServerApp] iopub messages resumed
+[W 2023-03-02 09:02:18.712 ServerApp] iopub messages resumed
+[I 2023-03-02 09:02:58.475 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 09:02:58.477 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-02 09:50:44.066 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 09:50:44.068 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-02 10:40:44.338 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 10:40:44.340 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-02 11:12:34.614 ServerApp] 302 GET /?token=d3f3bb76689a77413ca5b4335562bc2ed76b0fc6cb80a647 (127.0.0.1) 0.96ms
+[W 2023-03-02 11:12:37.513 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-03-02 11:26:44.156 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 11:26:44.157 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[W 2023-03-02 11:32:32.984 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-03-02 11:50:53.280 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 11:50:53.282 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-02 11:57:44.970 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-03-02 11:57:44.971 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-03-02 12:02:32.017 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 12:02:32.019 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-02 12:07:27.748 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-03-02 12:07:27.749 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-03-02 12:07:30.950 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-03-02 12:07:30.952 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-03-02 12:08:01.437 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-03-02 12:08:01.438 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-03-02 12:12:03.622 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-03-02 12:12:03.623 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-03-02 12:13:22.969 ServerApp] Kernel restarted: 59292331-1b89-40e0-a147-ea6c7a93ce09
+[I 2023-03-02 12:13:24.124 ServerApp] Starting buffering for 59292331-1b89-40e0-a147-ea6c7a93ce09:e47b171c-a82b-459b-a1a9-799f32f5f5d5
+[I 2023-03-02 12:13:24.215 ServerApp] Restoring connection for 59292331-1b89-40e0-a147-ea6c7a93ce09:e47b171c-a82b-459b-a1a9-799f32f5f5d5
+[I 2023-03-02 12:14:05.220 ServerApp] Saving file at /notebooks/check_s2p_out.ipynb
+[I 2023-03-02 12:14:05.222 ServerApp] Saving check_s2p_out.ipynb
+[I 2023-03-02 12:19:18.657 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 12:19:18.658 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-02 12:19:29.709 ServerApp] Kernel restarted: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[I 2023-03-02 12:19:43.164 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-02 12:19:49.971 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-02 12:20:36.321 ServerApp] Saving file at /docs/dj_library_hacks.txt
+[I 2023-03-02 12:20:45.787 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 12:20:45.789 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-02 12:20:46.726 ServerApp] Starting buffering for 59292331-1b89-40e0-a147-ea6c7a93ce09:e47b171c-a82b-459b-a1a9-799f32f5f5d5
+[I 2023-03-02 12:20:47.533 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 12:20:47.535 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-02 12:20:59.600 ServerApp] Kernel interrupted: f57e0d7c-ded2-4fe3-bd5b-2a06fbde2bd3
+[I 2023-03-02 12:21:01.244 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 12:21:01.246 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[I 2023-03-02 12:21:01.848 ServerApp] Saving file at /notebooks/02_trigger_db_s2p.ipynb
+[I 2023-03-02 12:21:01.849 ServerApp] Saving 02_trigger_db_s2p.ipynb
+[W 2023-03-02 12:21:16.477 ServerApp] delete /suite2p_fast_disk/suite2p

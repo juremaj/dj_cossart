@@ -1,0 +1,16 @@
+Hi! This file outlines some hacks I had to implement to make the analysis pipeline work (up to the point where i got stuck with suite2p for multi-channel recordings):
+NOTE: Ideally we would want to avoid having to make these changes if there is a workaround. Alternatively we could just fork the datajoint repos and maintain a separate version modified for our specific setup.
+
+Hacks:
+
+1) The first issue I came across was with reading the metadata (.xml files), specifically in how datajoint registers the z position in multi-plane recordings. You can see the description of this issue (and my temporary solution) here: https://github.com/datajoint/element-interface/issues/77#issuecomment-1448339050
+(the library is installed: /home/cossart/anaconda3/envs/dj_cossart/lib/python3.8/site-packages/element_interface/prairieviewreader.py)
+    additional note: I am not 100% sure but I think this error might still persist in some cases, and I am not sure exactly why
+
+2) In the same file I also had to change the 'roi' variable from 0 to 1. I think this should be fine, its a bit hard to explain but roi would mean that instead of one video (of 512x512) you would for example simultaneously record two smaller videos (e. g. 64x64) at different locations within that field of view simultaneously. Our microscope can't do that so we don't care anyways.
+
+    see line:
+        roi = 0 # JM: changed!
+
+3)  Datetime is logged as arbitrarily, I just put a fake number. The datetime of the experiment can still be accessed though through the `session` entry (YYYY-MM-DD_x) or from where the bruker metadata is stored within the database (temporary solution). A nice fix for this would be to use the `prairiview.py` parser that they provide (in the calcium imaging element) and read the datetime data from the xml file and store it correctly in the database.
+

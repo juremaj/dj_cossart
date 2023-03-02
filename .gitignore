@@ -4,6 +4,9 @@ dj_local_conf.json
 # data symbolic link
 data
 
+# suite2p place to construct binary files
+suite2p_fast_disk
+
 # Distribution / packaging
 .Python
 build/
