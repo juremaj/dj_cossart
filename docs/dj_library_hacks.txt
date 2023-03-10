@@ -5,6 +5,7 @@ Hacks:
 
 1) The first issue I came across was with reading the metadata (.xml files), specifically in how datajoint registers the z position in multi-plane recordings. You can see the description of this issue (and my temporary solution) here: https://github.com/datajoint/element-interface/issues/77#issuecomment-1448339050
 (the library is installed: /home/cossart/anaconda3/envs/dj_cossart/lib/python3.8/site-packages/element_interface/prairieviewreader.py)
+https://github.com/datajoint/element-interface/blob/main/element_interface/prairieviewreader.py
     additional note: I am not 100% sure but I think this error might still persist in some cases, and I am not sure exactly why
 
 2) In the same file I also had to change the 'roi' variable from 0 to 1. I think this should be fine, its a bit hard to explain but roi would mean that instead of one video (of 512x512) you would for example simultaneously record two smaller videos (e. g. 64x64) at different locations within that field of view simultaneously. Our microscope can't do that so we don't care anyways.
